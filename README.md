@@ -1,2 +1,2 @@
 # Usersearch
-A user search project in JS and PHP.
+A user search project using JS AJAX and PHP.
